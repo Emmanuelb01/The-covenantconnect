@@ -99,12 +99,13 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24,
   },
   logoContainer: {
-    marginBottom: 4,
+    marginTop: 40,
+    marginBottom: 8,
     alignItems: 'center',
   },
   logo: {
-    width: 150,
-    height: 150,
+    width: 200,
+    height: 200,
   },
   title: {
     fontSize: 32,
